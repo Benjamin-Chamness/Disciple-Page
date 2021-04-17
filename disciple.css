@@ -2,7 +2,7 @@ html{
     background-image: url("assets/cross.jpg");
     background-size: cover;
     height: 80%;
-    overflow: hidden;
+    overflow: scroll;
     background-position: center;
 }
    
